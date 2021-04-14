@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="channels">Channels</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="added_to_favorites">%1$s added to favorites</string>
+    <string name="removed_from_favorites">%1$s removed from favorites</string>
+    <string name="enter_keyword">Enter the word for search</string>
+    <string name="server_error">server error</string>
+    <string name="add_to_favorites">Add some channel to favorite list for getting more news</string>
+    <string name="network_not_available">Network is not available. Check your connection.</string>
+    <string name="no_results">There are no results for your search.</string>
+</resources>
